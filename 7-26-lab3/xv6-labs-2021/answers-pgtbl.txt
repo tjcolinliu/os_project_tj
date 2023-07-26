@@ -1,0 +1,2 @@
+1.i think maybe getsysinfo can do,because it can only read some system infomation
+2.i answer it in my report
